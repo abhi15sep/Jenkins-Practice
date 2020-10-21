@@ -1,0 +1,7 @@
+Course Code Repositories
+
+azure-voting-app fork
+https://github.com/devbyaccident/azure-voting-app-redis
+
+Shared Global Library
+https://github.com/devbyaccident/demo-shared-pipeline
